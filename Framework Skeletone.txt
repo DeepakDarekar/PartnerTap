@@ -84,4 +84,25 @@ Phases of Framework
 3.12 Push the project code to GitHub Repository from Local GIT Repository
 
 ***************************************************************************************
+GitHub
 
+1.Local Repository --git
+2.Remote Repository--github
+
+Pre-Requisites
+
+1.Download the git on Local System
+2.Login to github
+3.Remote Repository URL -->https://github.com/DeepakDarekar/PartnerTap.git
+4.Project Location write Click and open the Git bash here 
+5.Git Commands 
+  git init -->Create Empty Repository (Local Repository)
+  git remote add origin 'https://github.com/DeepakDarekar/PartnerTap.git' -->linking Local Repository to Remote Repository
+  git status--> What are files ready to commit in Git repository
+  git add -A -->Add all your files to staging area 
+  git config --global user.name 'Deepak'
+  git config --global user.email "deepak.darekar15@gamil.com"
+  git commit -m "Commit messgae"
+  
+  
+  
