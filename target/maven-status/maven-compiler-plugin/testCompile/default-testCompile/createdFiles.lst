@@ -1,0 +1,9 @@
+com\PartnerTap\TestCases\BaseClass.class
+com\PartnerTap\Utilities\ReadConfig.class
+com\PartnerTap\PageObjects\LoginPage.class
+com\PartnerTap\Utilities\ReadingDataFromExcel.class
+com\PartnerTap\PageObjects\ProfilePage.class
+com\PartnerTap\Utilities\XLUtils.class
+com\PartnerTap\TestCases\TC_OpenProfilePage_002.class
+com\PartnerTap\TestCases\TC_LoginInDemoUser_001.class
+com\PartnerTap\Utilities\Reporting.class

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20790" started-at="2021-07-28T02:38:27 IST" finished-at="2021-07-28T02:38:48 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20790" started-at="2021-07-28T02:38:27 IST" finished-at="2021-07-28T02:38:48 IST">
+      <class name="com.PartnerTap.TestCases.TC_LoginInDemoUser_001">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.PartnerTap.TestCases.TC_LoginInDemoUser_001@1881071]" name="setup" is-config="true" duration-ms="8853" started-at="2021-07-28T02:38:27 IST" finished-at="2021-07-28T02:38:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.PartnerTap.TestCases.TC_LoginInDemoUser_001@1881071]" name="loginTest" duration-ms="11125" started-at="2021-07-28T02:38:36 IST" finished-at="2021-07-28T02:38:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.PartnerTap.TestCases.TC_LoginInDemoUser_001@1881071]" name="tearDown" is-config="true" duration-ms="643" started-at="2021-07-28T02:38:47 IST" finished-at="2021-07-28T02:38:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.PartnerTap.TestCases.TC_LoginInDemoUser_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
